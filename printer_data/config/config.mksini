@@ -1,0 +1,40 @@
+
+[device_code]
+value                          = ff7wydw5
+
+
+[device_state]
+state                          = standby_0.00
+
+
+[target]
+heaterbed                      = 90
+hot                            = 55
+extruder                       = 240
+
+
+[total]
+time                           = 46340
+
+
+[led]
+enable                         = 0
+
+
+[pops]
+pop_1                          = false
+pop_2                          = false
+
+
+[mks_ethernet]
+enable                         = 0
+
+
+[app_connection]
+method                         = 1
+
+
+[mks_file_picture_refresh]
+enable                         = 1
+
+

@@ -4,7 +4,7 @@ value                          = pm98rm4v
 
 
 [device_state]
-state                          = paused_0.67
+state                          = printing_0.78
 
 
 [target]

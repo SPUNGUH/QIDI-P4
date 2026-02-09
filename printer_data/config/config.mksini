@@ -4,7 +4,7 @@ value                          = pm98rm4v
 
 
 [device_state]
-state                          = printing_0.96
+state                          = printing_0.99
 
 
 [target]
@@ -14,7 +14,7 @@ extruder                       = 240
 
 
 [total]
-time                           = 46726
+time                           = 47112
 
 
 [led]

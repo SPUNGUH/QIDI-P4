@@ -4,7 +4,7 @@ value                          = j2vf3hn8
 
 
 [device_state]
-state                          = standby_0.00
+state                          = printing_0.77
 
 
 [target]
@@ -14,7 +14,7 @@ extruder                       = 260
 
 
 [total]
-time                           = 47126
+time                           = 47146
 
 
 [led]

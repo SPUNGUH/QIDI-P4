@@ -4,7 +4,7 @@ value                          = mudycrf5
 
 
 [device_state]
-state                          = standby_0.00
+state                          = printing_0.99
 
 
 [target]
@@ -14,7 +14,7 @@ extruder                       = 260
 
 
 [total]
-time                           = 47218
+time                           = 47255
 
 
 [led]

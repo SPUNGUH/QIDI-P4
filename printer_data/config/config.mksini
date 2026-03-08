@@ -4,7 +4,7 @@ value                          = dfs50hc5
 
 
 [device_state]
-state                          = printing_0.00
+state                          = standby_0.00
 
 
 [target]

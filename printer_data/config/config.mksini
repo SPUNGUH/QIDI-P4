@@ -4,7 +4,7 @@ value                          = dfs50hc5
 
 
 [device_state]
-state                          = complete_1.00
+state                          = standby_1.00
 
 
 [target]

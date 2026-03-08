@@ -10,7 +10,7 @@ state                          = standby_0.00
 [target]
 heaterbed                      = 60
 hot                            = 60
-extruder                       = 260
+extruder                       = 240
 
 
 [total]

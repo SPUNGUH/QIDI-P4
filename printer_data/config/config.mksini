@@ -4,7 +4,7 @@ value                          = rn163fv8
 
 
 [device_state]
-state                          = printing_0.79
+state                          = printing_0.99
 
 
 [target]
@@ -14,7 +14,7 @@ extruder                       = 240
 
 
 [total]
-time                           = 47643
+time                           = 48029
 
 
 [led]

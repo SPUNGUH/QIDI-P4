@@ -4,7 +4,7 @@ value                          = ul6gtsaq
 
 
 [device_state]
-state                          = printing_0.55
+state                          = printing_0.99
 
 
 [target]
@@ -14,7 +14,7 @@ extruder                       = 240
 
 
 [total]
-time                           = 48415
+time                           = 48801
 
 
 [led]

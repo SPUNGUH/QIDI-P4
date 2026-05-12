@@ -4,7 +4,7 @@ value                          = tw21w3yz
 
 
 [device_state]
-state                          = printing_0.12
+state                          = standby_0.00
 
 
 [target]

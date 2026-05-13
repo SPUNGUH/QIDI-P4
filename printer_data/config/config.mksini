@@ -4,11 +4,11 @@ value                          = 33p2e3f9
 
 
 [device_state]
-state                          = standby_0.00
+state                          = printing_0.99
 
 
 [target]
-heaterbed                      = 90
+heaterbed                      = 100
 hot                            = 65
 extruder                       = 220
 

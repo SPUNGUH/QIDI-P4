@@ -4,7 +4,7 @@ value                          = 3cw1q122
 
 
 [device_state]
-state                          = standby_0.00
+state                          = standby_0.03
 
 
 [target]
@@ -14,7 +14,7 @@ extruder                       = 280
 
 
 [total]
-time                           = 48905
+time                           = 48919
 
 
 [led]

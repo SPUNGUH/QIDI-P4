@@ -4,7 +4,7 @@ value                          = 3cw1q122
 
 
 [device_state]
-state                          = standby_0.03
+state                          = standby_0.00
 
 
 [target]

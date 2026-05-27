@@ -4,7 +4,7 @@ value                          = grq4dyv3
 
 
 [device_state]
-state                          = printing_0.67
+state                          = printing_0.99
 
 
 [target]
@@ -14,7 +14,7 @@ extruder                       = 280
 
 
 [total]
-time                           = 48919
+time                           = 49404
 
 
 [led]

@@ -4,7 +4,7 @@ value                          = grq4dyv3
 
 
 [device_state]
-state                          = complete_1.00
+state                          = standby_0.00
 
 
 [target]
